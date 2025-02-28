@@ -3,7 +3,6 @@ import { ThemedText } from '@/components/ThemedText';
 import { ThemedView } from '@/components/ThemedView';
 
 export default function NewsScreen() {
-
   return (
     <ThemedView style={styles.newsSection}>
       <ThemedView style={styles.sectionHeader}>
@@ -31,7 +30,6 @@ export default function NewsScreen() {
     </ThemedView>
   );
 }
-
 const styles = StyleSheet.create({
   sectionHeader: {
     flexDirection: 'row',
