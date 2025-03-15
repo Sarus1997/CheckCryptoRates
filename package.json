@@ -1,5 +1,5 @@
 {
-  "name": "cryptowallet",
+  "name": "check_crypto_rates",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
